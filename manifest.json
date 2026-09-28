@@ -1,9 +1,9 @@
 {
   "id": "slog-sync",
   "name": "slog sync",
-  "version": "0.2.19",
+  "version": "0.3.0",
   "minAppVersion": "1.0.0",
-  "description": "Sync a folder of YYYY.MM.md files (default log/) with a slog server (optimistic lock + diff3 merge).",
+  "description": "slog worklog look (mentions, carried-over labels, Abandoned pane) and optional sync of a folder of YYYY.MM.md files with a slog server.",
   "author": "slog",
   "isDesktopOnly": false
 }
