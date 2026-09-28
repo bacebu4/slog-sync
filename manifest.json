@@ -1,7 +1,7 @@
 {
   "id": "slog-sync",
   "name": "slog sync",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "minAppVersion": "1.0.0",
   "description": "slog worklog look (mentions, carried-over labels, Abandoned pane) and optional sync of a folder of YYYY.MM.md files with a slog server.",
   "author": "slog",
