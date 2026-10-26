@@ -4,7 +4,7 @@ Obsidian plugin that syncs the `YYYY.MM.md` worklog files in a vault folder (`lo
 server (optimistic lock + diff3 merge, live updates over SSE). Only useful with a slog
 server. It also gives the month files slog's look: `@name` autocomplete, `!` line commands (`!waiting`, `!flag`, …), the carried-over
 `Nd` label, dimmed ⏳ subtrees, an Abandoned pane in the right sidebar, "sort day" and "new day" commands. Leave the server
-URL empty to get the look without sync. This repo holds built releases only.
+URL empty to get the look without sync. Any other note gets the look with `cssclasses: slog-file` in its frontmatter. This repo holds built releases only.
 
 Install with [BRAT](https://github.com/TfTHacker/obsidian42-brat): "Add beta plugin" →
 `bacebu4/slog-sync`, enable it, then set the server URL in the plugin's settings.
